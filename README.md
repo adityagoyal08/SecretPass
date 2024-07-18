@@ -22,7 +22,7 @@ It allows users to securely store and manage their passwords.
 
    ```bash
    git clone https://github.com/eddyhacks/SecretPass.git
-   cd your-repository
+   cd SecretPass
    ```
 
 2. Install dependencies for the backend:
